@@ -1,3 +1,4 @@
+import numpy as np
 class KNN:
     def __init__(self,k):
         #defining # nearest neighbors
